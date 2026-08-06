@@ -49,14 +49,13 @@ I'm a Computer Science & IT student at BCIT progressing toward the B.Sc. in Comp
 - 🎓 CIT @ BCIT → B.Sc. Computer Science  
 - ⚙️ **Interests:** DevOps • Software/Systems/Platform Engineering • Cloud Infrastructure • Backend Development
 
-## My Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="42" title="C"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/> &nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" title="Go"/> &nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/> &nbsp;
@@ -68,8 +67,6 @@ I'm a Computer Science & IT student at BCIT progressing toward the B.Sc. in Comp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/> &nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" title="Kubernetes"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="42" title="Terraform"/> &nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" title="GitHub Actions"/> &nbsp;
 </p>
