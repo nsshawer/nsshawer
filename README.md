@@ -35,14 +35,14 @@
 
 ## About Me
 
-I'm a Computer Information Technology student at BCIT progressing toward Applied Computer Science, focused on DevOps, Platform, and Systems Engineering with a strong interest in backend development & MLOps. I enjoy building scalable backend systems, automation tools, and cloud-native infrastructure. My goal is to develop software that is reliable, efficient, and production-ready.
+I'm a Computer Science & IT student at BCIT progressing toward the B.Sc. in Computer Science, focused on DevOps and Systems Engineering with a strong interest in backend development & MLOps. I enjoy building scalable backend systems, automation tools, and cloud-native infrastructure. My goal is to develop software that is reliable, efficient, and production-ready.
 
 ## Currently
 
-- Learning Backend Developemnt, Cloud, and Data Structures & Algorithms  
-- Building a mini distributed logging and monitoring system
-- Exploring CI/CD pipelines and infrastructure automation  
-- Preparing for Software / Platform Engineering internships  
+- ✏️ Learning Backend Developemnt, DevOps, Cloud, and Data Structures & Algorithms  
+- 🏗️ Building [Pulse](https://github.com/nadasshawer/pulse), a mini distributed logging and monitoring system powered by real-world traffic from a self-hosted Linux homelab
+- 🔎 Exploring CI/CD pipelines and infrastructure automation  
+- 🏢 Preparing for Software/Platform Engineering internships/co-ops
 
 ## Journey
 
