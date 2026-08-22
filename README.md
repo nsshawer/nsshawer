@@ -81,3 +81,13 @@ I'm a Computer Science & IT student at BCIT progressing toward the B.Sc. in Comp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42" title="Prisma"/> &nbsp;
 </p>
+
+### Testing & Frameworks
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42" title="Jest" alt="Jest"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="42" title="pytest" alt="pytest"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="42" title="Fastify" alt="Fastify"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express" alt="Express"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" title="Flask" alt="Flask"/> &nbsp;
+</p>
