@@ -90,4 +90,5 @@ I'm a Computer Science & IT student at BCIT progressing toward the B.Sc. in Comp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="42" title="Fastify" alt="Fastify"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express" alt="Express"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" title="Flask" alt="Flask"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React" alt="React"/> &nbsp;
 </p>
