@@ -12,22 +12,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank">
+  <a href="https://www.linkedin.com/in/nsshawer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   
-  <a href="mailto:nadashawer2023@gmail.com">
+  <a href="mailto:nsshawer@gmail.com">
     <img src="https://img.shields.io/badge/Email-007FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   
-  <a href="https://dev.to/nadasshawer" target="_blank">
+  <a href="https://dev.to/nsshawer" target="_blank">
     <img src="https://img.shields.io/badge/DEV.to-9400D3?style=for-the-badge&logo=devto&logoColor=white" alt="DEV Community"/>
   </a>
   &nbsp;
   
-  <a href="https://leetcode.com/u/nadasshawer" target="_blank">
+  <a href="https://leetcode.com/u/nsshawer" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-007FFF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   &nbsp;
