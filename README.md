@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center" style="margin-top:8px;">
-  <b>Computer Science Student </b>  &nbsp; • &nbsp; <b>DevOps, Platform & Systems Engineering</b><br/>
+  <b>Computer Science Student </b>  &nbsp; • &nbsp; <b>DevOps, Platform & Software Engineering</b><br/>
   <i>Building scalable infrastructure and automated solutions for a cloud-first world</i>
 </p>
 
