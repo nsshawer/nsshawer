@@ -40,7 +40,7 @@ I'm a Computer Science & IT student at BCIT progressing toward the B.Sc. in Comp
 ## Currently
 
 - ✏️ Learning Backend Developemnt, DevOps, Cloud, and Data Structures & Algorithms  
-- 🏗️ Building [Pulse](https://github.com/nadasshawer/pulse), a mini distributed logging and monitoring system powered by real-world traffic from a self-hosted Linux homelab
+- 🏗️ Building [Pulse](https://github.com/nadasshawer/pulse), a distributed logging / monitoring system powered by real-world traffic from a self-hosted Linux homelab
 - 🔎 Exploring CI/CD pipelines and infrastructure automation  
 - 🏢 Preparing for Software/Platform Engineering internships/co-ops
 
