@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center" style="margin-top:8px;">
-  <b>Computer Science Student </b>  &nbsp; • &nbsp; <b>DevOps, Platform & Software Engineering</b><br/>
+  <b>Computer Science Student </b>  &nbsp; • &nbsp; <b>DevOps & Software Engineering</b><br/>
   <i>Building scalable infrastructure and automated solutions for a cloud-first world</i>
 </p>
 
@@ -62,13 +62,15 @@ I'm a Computer Science & IT student at BCIT progressing toward the B.Sc. in Comp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/> &nbsp;
 </p>
 
-### DevOps & Infrastructure
+### Cloud & DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" title="GitHub Actions"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" title="AWS CodePipeline"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" title="Microsoft Azure"/> &nbsp;
 </p>
 
 ### Databases & Runtimes
