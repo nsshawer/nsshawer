@@ -11,14 +11,14 @@
   <i>Building scalable infrastructure and automated solutions for a cloud-first world</i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nsshawer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  
+  <p align="center">
   <a href="mailto:nsshawer@gmail.com">
     <img src="https://img.shields.io/badge/Email-007FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+
+  <a href="https://www.linkedin.com/in/nsshawer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   
