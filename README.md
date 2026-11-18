@@ -22,11 +22,6 @@
   </a>
   &nbsp;
   
-  <a href="https://dev.to/nsshawer" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-9400D3?style=for-the-badge&logo=devto&logoColor=white" alt="DEV Community"/>
-  </a>
-  &nbsp;
-  
   <a href="https://leetcode.com/u/nsshawer" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-007FFF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
